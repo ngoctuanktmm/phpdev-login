@@ -12,7 +12,7 @@
             </button>
 
             <!-- Change "Your Site" to your site name -->
-            <a class="navbar-brand" href="<?php echo $home_url; ?>">Your Site</a>
+            <a class="navbar-brand" href="<?php echo $home_url; ?>">PHP DEV - Login</a>
         </div>
 
         <div class="navbar-collapse collapse">
